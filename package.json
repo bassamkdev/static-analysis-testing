@@ -26,5 +26,8 @@
     "husky": "^3.0.2",
     "prettier": "^2.2.1",
     "typescript": "^4.2.2"
+  },
+  "dependencies": {
+    "lint-staged": "^9.2.1"
   }
 }
